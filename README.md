@@ -1,3 +1,5 @@
+![EoNs Automation](https://raw.githubusercontent.com/EoNs-Automation/password-generator/main/eonsautomationlogo.jpg)
+
 # Vigenère Cipher
 
 A simple tool that encrypts and decrypts messages using the Vigenère cipher.
